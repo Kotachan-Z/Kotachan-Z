@@ -2,6 +2,7 @@
 
 <p align="center">
   Web・モバイル・IoT・自動化まで、作りたいものに合わせて技術を選んで手を動かしています。<br>
+  ただ作るだけではなく、課題解決まで繋げることを最終的な目標にしています。<br>
   最近は <b>Hono × Cloudflare Workers</b> と <b>Laravel</b> を中心に学習中。
 </p>
 
