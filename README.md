@@ -25,7 +25,8 @@
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=hono,nodejs,express,bun,laravel&theme=dark" />
+  <img src="./assets/hono.svg" height="48" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,bun,laravel&theme=dark" />
 </p>
 
 - **Hono** on Cloudflare Workers + Drizzle ORM
@@ -35,10 +36,10 @@
 
 ### Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=supabase,mysql,postgres,sqlite&theme=dark" />
 </p>
 
-- MySQL / PostgreSQL（PGLite）/ SQLite
+- Supabase / MySQL / PostgreSQL（PGLite）/ SQLite
 
 ### Mobile & IoT
 <p>
